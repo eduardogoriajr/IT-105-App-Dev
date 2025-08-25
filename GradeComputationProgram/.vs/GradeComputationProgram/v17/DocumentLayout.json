@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YoshinoPort\\source\\repos\\GradeComputationProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69331F9D-7219-4A01-8087-479ADEFF6C30}|GradeComputationProgram\\GradeComputationProgram.vbproj|c:\\users\\yoshinoport\\source\\repos\\gradecomputationprogram\\gradecomputationprogram\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{69331F9D-7219-4A01-8087-479ADEFF6C30}|GradeComputationProgram\\GradeComputationProgram.vbproj|solutionrelative:gradecomputationprogram\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69331F9D-7219-4A01-8087-479ADEFF6C30}|GradeComputationProgram\\GradeComputationProgram.vbproj|c:\\users\\yoshinoport\\source\\repos\\gradecomputationprogram\\gradecomputationprogram\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{69331F9D-7219-4A01-8087-479ADEFF6C30}|GradeComputationProgram\\GradeComputationProgram.vbproj|solutionrelative:gradecomputationprogram\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\YoshinoPort\\source\\repos\\GradeComputationProgram\\GradeComputationProgram\\Form1.vb",
+              "RelativeDocumentMoniker": "GradeComputationProgram\\Form1.vb",
+              "ToolTip": "C:\\Users\\YoshinoPort\\source\\repos\\GradeComputationProgram\\GradeComputationProgram\\Form1.vb",
+              "RelativeToolTip": "GradeComputationProgram\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-25T06:56:58.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\YoshinoPort\\source\\repos\\GradeComputationProgram\\GradeComputationProgram\\Form1.vb",
+              "RelativeDocumentMoniker": "GradeComputationProgram\\Form1.vb",
+              "ToolTip": "C:\\Users\\YoshinoPort\\source\\repos\\GradeComputationProgram\\GradeComputationProgram\\Form1.vb [Design]",
+              "RelativeToolTip": "GradeComputationProgram\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-23T01:48:49.109Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

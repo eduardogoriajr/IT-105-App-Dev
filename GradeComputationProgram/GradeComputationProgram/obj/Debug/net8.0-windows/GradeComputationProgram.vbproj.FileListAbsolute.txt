@@ -1,0 +1,16 @@
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\bin\Debug\net8.0-windows\GradeComputationProgram.exe
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\bin\Debug\net8.0-windows\GradeComputationProgram.deps.json
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\bin\Debug\net8.0-windows\GradeComputationProgram.runtimeconfig.json
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\bin\Debug\net8.0-windows\GradeComputationProgram.dll
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\bin\Debug\net8.0-windows\GradeComputationProgram.pdb
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\GradeComputationProgram.Form1.resources
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\GradeComputationProgram.vbproj.GenerateResource.cache
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\GradeComputationProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\GradeComputationProgram.AssemblyInfoInputs.cache
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\GradeComputationProgram.AssemblyInfo.vb
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\GradeComputationProgram.vbproj.CoreCompileInputs.cache
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\GradeComputationProgram.dll
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\refint\GradeComputationProgram.dll
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\GradeComputationProgram.pdb
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\GradeComputationProgram.genruntimeconfig.cache
+C:\Users\YoshinoPort\source\repos\GradeComputationProgram\GradeComputationProgram\obj\Debug\net8.0-windows\ref\GradeComputationProgram.dll
