@@ -1,0 +1,16 @@
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\bin\Debug\net8.0-windows\kiosk.exe
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\bin\Debug\net8.0-windows\kiosk.deps.json
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\bin\Debug\net8.0-windows\kiosk.runtimeconfig.json
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\bin\Debug\net8.0-windows\kiosk.dll
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\bin\Debug\net8.0-windows\kiosk.pdb
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\kiosk.Form1.resources
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\kiosk.vbproj.GenerateResource.cache
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\kiosk.AssemblyInfoInputs.cache
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\kiosk.AssemblyInfo.vb
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\kiosk.vbproj.CoreCompileInputs.cache
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\kiosk.dll
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\refint\kiosk.dll
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\kiosk.pdb
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\kiosk.genruntimeconfig.cache
+C:\Users\YoshinoPort\source\repos\kiosk\kiosk\obj\Debug\net8.0-windows\ref\kiosk.dll
