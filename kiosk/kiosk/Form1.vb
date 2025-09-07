@@ -1,6 +1,6 @@
 ﻿Public Class Form1
     Dim burgQuantity, spagQuantity, pizzaQuantity, friestQuantity, cokeQuantity, teaQuantity As Integer
-    Dim total, payment, change As Double
+    Dim total, payment, change As Integer
 
     Private Sub Burger_CheckedChanged(sender As Object, e As EventArgs) Handles chkBurg.CheckedChanged
         If chkBurg.Checked Then

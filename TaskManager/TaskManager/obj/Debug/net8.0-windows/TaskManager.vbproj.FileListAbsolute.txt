@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.exe
+C:\Users\USER\source\repos\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.deps.json
+C:\Users\USER\source\repos\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.runtimeconfig.json
+C:\Users\USER\source\repos\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.dll
+C:\Users\USER\source\repos\TaskManager\TaskManager\bin\Debug\net8.0-windows\TaskManager.pdb
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.Form1.resources
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.AssemblyInfo.vb
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.dll
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\refint\TaskManager.dll
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.pdb
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.genruntimeconfig.cache
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\ref\TaskManager.dll
+C:\Users\USER\source\repos\TaskManager\TaskManager\obj\Debug\net8.0-windows\TaskManager.Resources.resources

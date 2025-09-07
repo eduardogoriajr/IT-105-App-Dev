@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("kiosk"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6f62ff5c104b12123fe892b9afcb0854e08a940"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("kiosk"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("kiosk"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
