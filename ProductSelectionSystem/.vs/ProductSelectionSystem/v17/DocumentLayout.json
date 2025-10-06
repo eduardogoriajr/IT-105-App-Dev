@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ProductSelectionSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9408F0-DB98-4276-910C-4F49D3D61257}|ProductSelectionSystem\\ProductSelectionSystem.vbproj|c:\\users\\user\\source\\repos\\productselectionsystem\\productselectionsystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5E9408F0-DB98-4276-910C-4F49D3D61257}|ProductSelectionSystem\\ProductSelectionSystem.vbproj|solutionrelative:productselectionsystem\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ProductSelectionSystem\\ProductSelectionSystem\\Form1.vb",
+              "RelativeDocumentMoniker": "ProductSelectionSystem\\Form1.vb",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ProductSelectionSystem\\ProductSelectionSystem\\Form1.vb [Design]",
+              "RelativeToolTip": "ProductSelectionSystem\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-04T04:18:41.078Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
